@@ -2,13 +2,13 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm <strong>Asael Mohammed</strong>, Full Stack Developer, UX/UI Designer & Data Analyst 🚀<br><br>
-    <img src="https://github.com/user-attachments/assets/4e5c2978-2f15-4343-a249-72de57eaf520" width="1000" >
+    <img  style = border-radius: 5px; src="https://github.com/user-attachments/assets/4e5c2978-2f15-4343-a249-72de57eaf520" width="1000" >
  </abc>
 </h2> 
 
 ---
 
-<h2 align="left">🛠️ Technologies & Tools I Work With:</h2>
+<h2 align="left">🛠️ Technologies & Tools I Work With :</h2>
 
 <p align="left">
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
@@ -38,8 +38,7 @@
 
 <h2 align="left">❤️ Let's Connect:</h2>
 
-(حطي رابط حساباتك هنا، مثلاً👇)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](#)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
-[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-8A2BE2?style=flat-square&logo=appveyor&logoColor=white)](#)
+/*[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
+[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-8A2BE2?style=flat-square&logo=appveyor&logoColor=white)](#)*/
