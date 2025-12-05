@@ -39,6 +39,6 @@
 <h2 align="left">❤️ Let's Connect:</h2>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](#)
-/*[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
-[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-8A2BE2?style=flat-square&logo=appveyor&logoColor=white)](#)*/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](#https://www.linkedin.com/in/asayel-mohammad-026310378?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
+[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-8A2BE2?style=flat-square&logo=appveyor&logoColor=white)](#)
