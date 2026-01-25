@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm <strong>Asael Mohammed</strong>, Full Stack Developer, UX/UI Designer & Data Analyst 🚀<br><br>
-    <img  style = border-radius: 5px; src="https://github.com/user-attachments/assets/4e5c2978-2f15-4343-a249-72de57eaf520" width="1000" >
+    <!--<img  style = border-radius: 5px; src="https://github.com/user-attachments/assets/4e5c2978-2f15-4343-a249-72de57eaf520" width="1000" >-->
  </abc>
 </h2> 
 
